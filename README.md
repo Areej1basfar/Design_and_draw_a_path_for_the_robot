@@ -1,4 +1,4 @@
-# Design_and_draw_a_path_for_the_robot<br><br>
+# Design and draw a path for the robot <Smart Methods training 2023>.<br><br>
 ![web](https://github.com/Areej1basfar/Design_and_draw_a_path_for_the_robot/assets/121516453/a1eb5869-be3d-4d5d-82a2-10c1d2d8dcfa)
 
 <br><br>
